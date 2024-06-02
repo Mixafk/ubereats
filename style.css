@@ -459,7 +459,7 @@ body {
 }
 
 
-@media (max-width: 1124px)  {
+@media (max-width: 1144px)  {
   .header, .rests, .cards {
     padding: 16px 8px;
   }
